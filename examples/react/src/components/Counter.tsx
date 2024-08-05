@@ -1,4 +1,4 @@
-import { FunctionComponent, PropsWithChildren, useState } from "react";
+import { type FunctionComponent, type PropsWithChildren, useState } from "react";
 import "./Counter.css";
 import { useTranslation } from "react-i18next";
 

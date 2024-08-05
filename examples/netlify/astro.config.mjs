@@ -1,5 +1,5 @@
 import { defineConfig } from "astro/config";
-import netlify from "@astrojs/netlify/functions";
+import netlify from "@astrojs/netlify";
 import astroI18next from "astro-i18next";
 
 // https://astro.build/config
